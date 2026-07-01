@@ -8,10 +8,6 @@ This repository contains a reactive obstacle avoidance controller for the Foot-b
 - **Language**: C++
 - **Dependencies**: [ARGoS3 Simulator](https://www.argos-sim.info/)
 
-## Key Features
-- **Deterministic Navigation**: Eliminates stochastic noise in obstacle avoidance.
-- **Continuous Motion**: Ensures smooth transitions by decoupling linear and angular velocity components.
-- **Efficiency**: Optimized O(n) implementation suitable for large-scale swarm simulations.
 
 ## Usage
 1. Compile the controller within your `argos3-examples/build` directory:
