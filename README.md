@@ -1,6 +1,6 @@
 # ARGoS Potential Field Controller
 
-This repository contains a reactive obstacle avoidance controller for the Foot-bot robot in the ARGoS simulator. The implementation utilizes an **Artificial Potential Field (APF)** approach, replacing the default stochastic diffusion behavior with a deterministic, vector-based navigation strategy.
+This repository contains a reactive obstacle avoidance controller for the Foot-bot robot in the ARGoS simulator. The implementation utilizes an **Artificial Potential Field (PFA)** approach, replacing the default stochastic diffusion behavior with a deterministic, vector-based navigation strategy.
 
 ## Implementation Details
 - **Methodology**: Inspired by the seminal work of Oussama Khatib (1986) on real-time obstacle avoidance.
